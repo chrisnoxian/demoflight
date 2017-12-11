@@ -8,7 +8,7 @@ try {
     $mail->Host = "mail.smtp2go.com";;  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
     $mail->Username = 'gameboydrewy@gmail.com';                 // SMTP username
-    $mail->Password = 'vegetachris93';                           // SMTP password
+    $mail->Password = '********';                           // SMTP password
     $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
     $mail->Port = 2525;                                    // TCP port to connect to
 
